@@ -6,13 +6,13 @@
 }
 
 .stats-tile {
-  width: 10em;
+  width: 15rem;
   height: 10rem;
   margin: 0.5rem;
   color: white;
-  font-size: 150%;
+  font-size: 1.5rem;
   font-weight: bold;
-  line-height: 9rem;
+  line-height: 10rem;
   border-radius: 1.5rem;
   background: linear-gradient(
     45deg,

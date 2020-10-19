@@ -6,7 +6,7 @@ import "./Subjects.css";
 class Subjects extends Component {
   render() {
     return (
-      <Container className="subjects-section">
+      <Container>
         <h1 className="section-title">We've got you covered</h1>
         <div className="subjects-container">
           {SubjectsData.map((subject, index) => {
